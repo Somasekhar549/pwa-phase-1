@@ -1,0 +1,43 @@
+{
+  "basic":{
+    "img":"Games.png.jpg",
+    "name":"somasekhar",
+    "gmail":"gsomasekhar005"
+  },
+  "career":{
+    "info":"sgguzgahwsg"
+  },
+"education":[
+  {
+  "sno":"1",
+  "degree":"btech",
+  "institute":"qut",
+  "per":"98"
+},
+{
+  "sno":"2",
+  "degree":"inter",
+  "institute":"istj",
+  "per":"87"
+},
+{
+  "sno":"3",
+  "degree":"ssc",
+  "institute":"suhv",
+  "per":"85"
+}
+],
+"skills":[
+  {
+    "info":"java"
+
+  },
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  }
+
+]
+}
